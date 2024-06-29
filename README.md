@@ -1,4 +1,4 @@
-# Site do _`Dev Burger`
+# Site do `Dev Burger`
 **Esse foi um projeto aonde aprendi desde do zero `Tailwindcss`, `Html e Js!`**
 ##
 **_`Meu site`_:**</div>
